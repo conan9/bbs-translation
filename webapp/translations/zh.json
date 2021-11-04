@@ -322,7 +322,7 @@
     "authModalLoginSubtitle": "Login to post and earn",
     "backToSignInProvidersLink": "Login another way",
     "signInWithEmailTitle": "Login with email",
-    "signInWithEmailButton": "Or, you can sign up/login with [Email]()",
+    "signInWithEmailButton": "或者，你可以注册/登录通过 [Email]()",
     "signInWithEmailFieldLabel": "Email address",
     "signInWithEmailPlaceholder": "Email address",
     "signInWithEmailSubmitButton": "Email verification",
